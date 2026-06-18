@@ -24,7 +24,6 @@ Welcome Terrence!
 What is item 1?: Rice (5kg)
 What is the price of Rice (5kg)?: 280.50
 
-...
 
 Your total is 1,377.60, here is a list of what you bought:
 Rice (5kg)
